@@ -22,7 +22,7 @@ Please be aware that Timberr may integrate with third-party services, and their 
 
 If you have any questions or concerns regarding our privacy practices, please contact us at [jhaider869@gmail.com](mailto:jhaider869@gmail.com).
 
-This Privacy Policy is effective as of [Date]. Any updates or changes will be communicated through our application or website.
+This Privacy Policy is effective as of [12/21/2023]. Any updates or changes will be communicated through our application or website.
 
 Thank you for choosing Timberr for your furniture needs.
 
