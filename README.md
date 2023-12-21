@@ -1,6 +1,6 @@
-# timberr
+# Timberr
 
-A new Flutter project.
+Timberr is a fully functional Furniture App Clone Developed using Flutter, Supabase and Getx State Management.
 
 ## Getting Started
 
